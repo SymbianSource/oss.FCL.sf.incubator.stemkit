@@ -3167,7 +3167,7 @@ sys\bin\comsdbgsvr.exe,/epoc32/release/armv5/urel/comsdbgsvr.exe,commsdebugutili
 sys\bin\comsdbgutil.dll,/epoc32/release/armv5/urel/comsdbgutil.dll,commsdebugutility.iby,os/persistentdata,Out,Auto,Not referenced during boot
 sys\bin\ConArc.dll,/epoc32/release/armv5/urel/conarc.dll,conarc.iby,mw/appsupport,,,
 sys\bin\conditionevaluator.dll,/epoc32/release/armv5/urel/conditionevaluator.dll,conditionevaluator.iby,os/devicesrv,,,
-sys\bin\Cone.dll,/epoc32/release/armv5/urel/cone.dll,cone.iby,mw/classicui,Stem,MW,Break dependency on MediaClientAudio.dll
+sys\bin\Cone.dll,/epoc32/release/armv5/urel/cone.dll,cone.iby,mw/classicui,In,MW,Break dependency on MediaClientAudio.dll
 sys\bin\ConfigurationComponentsFactory.dll,/epoc32/release/armv5/urel/configurationcomponentsfactory.dll,core/os/ConfigurationComponentsFactory.iby,mw/mmmw,Out,Auto,Not referenced during boot
 Sys\Bin\connectiondialogswrapper.DLL,/epoc32/release/armv5/urel/connectiondialogswrapper.dll,core/mw/ConnectionDialogs.iby,mw/ipconnmgmt,,,
 sys\bin\ConnectionManager.dll,/epoc32/release/armv5/urel/connectionmanager.dll,core/mw/ConnectionManager.iby,mw/web,Out,Auto,Not referenced during boot
